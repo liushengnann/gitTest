@@ -23,7 +23,7 @@ class App extends Component {
          }}/>
          <Side show={this.state.isShow} event={()=>{
             this.setState({
-            isShow:false
+            isShow:true
           })
          }}/>
        
