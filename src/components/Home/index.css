@@ -1,0 +1,38 @@
+#home {
+  margin-left: 18px;
+  margin-right: 18px; }
+  #home .loader {
+    text-align: center; }
+    #home .loader i {
+      font-size: 40px; }
+  #home section h1 {
+    margin-top: 35px; }
+  #home section p {
+    color: #ff3939; }
+  #home section div {
+    border-bottom: 1px solid #eeeeee; }
+    #home section div img {
+      margin-top: 20px;
+      width: 100%; }
+    #home section div p:nth-of-type(1) {
+      margin-top: 23px;
+      font-size: 18px;
+      color: #000; }
+    #home section div p:nth-of-type(2) {
+      margin-top: 3px;
+      color: #92969c;
+      margin-bottom: 23px; }
+  #home #bottom {
+    height: 56px;
+    background: #fff;
+    position: fixed;
+    bottom: -2px;
+    left: 0;
+    width: 100%;
+    border-top: 1px solid #f2f2f2;
+    line-height: 56px; }
+    #home #bottom i {
+      margin-left: 36px;
+      margin-right: 36px;
+      font-size: 30px;
+      color: #a0a0a0; }
