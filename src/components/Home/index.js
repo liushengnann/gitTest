@@ -23,7 +23,7 @@ class Home extends React.Component{
             {
             this.state.datalist.map((item,index)=>{
                     return <section key={index}>
-                        <h1>每周精选餐饮</h1>
+                        <h1>每周精选餐饮 这里是新增的内容</h1>
                         <p>{item.group_section.desc}</p>
                         {
                             item.tabs.map(tab=>{
