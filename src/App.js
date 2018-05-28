@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import './App.css';
+import './App.cssdddddddd';
 import {
   NavLink
 } from "react-router-dom";
@@ -15,7 +15,8 @@ class App extends Component {
   }
   render() {
     return (
-      <div className="App">
+
+      <div className="App123">
       {isTrusted  bubbles}
          <Nav event={()=>{
           this.setState({
@@ -24,7 +25,7 @@ class App extends Component {
          }}/>
          <Side show={this.state.isShow} event={()=>{
             this.setState({
-            isShow:true
+            isShow:false
           })
          }}/>
        
