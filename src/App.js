@@ -16,6 +16,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+      {isTrusted  bubbles}
          <Nav event={()=>{
           this.setState({
             isShow:!this.state.isShow
