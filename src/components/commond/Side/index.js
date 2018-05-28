@@ -50,12 +50,12 @@ class Side extends React.Component{
                 this.props.event();
             }}>
               {this.state.Navlist[3].sub_category_list.map(item=>{
-               return <li><NavLink to="/home">{item.name}</NavLink></li>
+               return <li><NavLink to="/home">{item.name}朋友</NavLink></li>
               })}
             </ul>
         </div>:null
         }
-        </ReactCSSTransitionGroup>
+        </ReactCSSTransitionGroup >
         </div>
     }
 
