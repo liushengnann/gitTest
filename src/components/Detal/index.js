@@ -51,12 +51,7 @@ class Detal extends React.Component{
                 <span>菜品质量 5.0 | 就餐环境 5.0 | 餐厅服务 5.0 </span>
               </li>
               <li>
-                 <span>服务周到</span>
-                 <span>餐具精美</span>
-                 <span>干净卫生</span>
-                 <span>食材新鲜</span>
-                 <span>好吃</span>
-                 <span>好吃</span>
+21324324  test
               </li>
               <li>鳗鱼饭上来是满满当当，放在便当样的木制饭盒里，很有日式的风格，而且入口香而不腻，鱼皮焦香搭配上恰到好处的脂肪，果然是活杀才有的鲜甜口感啊！配上可以自己添加的酱汁和七味粉，大大的推荐！</li>
               <li>
